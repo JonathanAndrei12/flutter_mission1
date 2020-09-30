@@ -149,7 +149,7 @@ class _MyAppState extends State<MyApp> {
                         ),
                         ),
                         Flexible(
-                          flex: 9,
+                          flex: 10,
                           child: Container(
                             padding: EdgeInsets.only(left: 5, right: 5),
                             margin: EdgeInsets.all(0),
