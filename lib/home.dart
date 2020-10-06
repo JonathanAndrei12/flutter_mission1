@@ -20,7 +20,7 @@ class _HomeState extends State<Home> {
     return MaterialApp(
       home: Scaffold(
           appBar: AppBar(
-            title: Text("Mission 1"),
+            title: Text("Mission 2"),
           ),
           body: Container(
             decoration: BoxDecoration(
